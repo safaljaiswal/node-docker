@@ -12,3 +12,4 @@ COPY . .
 EXPOSE 3000
 # cmd run the application
 CMD ["node", "index.js"]
+# for practice changes use this line only.
